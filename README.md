@@ -122,7 +122,7 @@ Response:
 ```
 
 ## Langkah Instalasi dan Menjalankan API
-1. Clone repository (git clone https://github.com/Damairf/Responsi_Modul1_Prak_PPB)
+1. Clone repository (git clone https://github.com/Damairf/Responsi_Modul1_Prak_PPB.git)
 2. Install dependensi (npm install)
 3. Buat file .env dan isi dengan kode dibawah ini:
 ```js
@@ -134,3 +134,4 @@ PORT=3000
 5. Server akan berjalan di http://localhost:3000
 
 ## Link Deploy
+https://responsi-modul1-prak-ppb.vercel.app/
